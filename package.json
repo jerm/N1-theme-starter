@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "ui-darkside-redstar",
+  "displayName": "Darksde-Redstar",
   "theme": "ui",
-  "version": "0.1.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "updated ui-darkside with a red star for starred items",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
