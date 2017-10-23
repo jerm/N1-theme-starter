@@ -6,7 +6,8 @@
   "description": "updated ui-darkside with a red star for starred items",
   "license": "GPL-3.0",
   "engines": {
-    "nylas": "*"
+    "nylas": "*",
+    "mailspring": "*"
   },
   "private": true
 }
